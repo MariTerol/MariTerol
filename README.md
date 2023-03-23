@@ -1,5 +1,5 @@
 
-### Oie! Seja Bem Vindo.
+### Oie! Sejam Bem Vindos.
 
 <hr>
 
