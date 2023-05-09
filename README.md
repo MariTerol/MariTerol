@@ -27,9 +27,12 @@
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 <hr>
-
-
-
+  <div align="center"> 
+   
+  ![](https://komarev.com/ghpvc/?username=MariTerol)
+ 
+ </div>
+<br>
 <div> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
