@@ -2,6 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d4d4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Mariana+Terol;I'm+19+years+old;I'm+from+Brazil;I+studying+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
+ <div align="center">
+ <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
+ </div>
+
 <br>
 
 <div align="center"> 
@@ -20,19 +24,27 @@
 
 <hr>
 
-### Studying in this moment:
-<div style="display: inline_block"><br/>
+ 
+<div align="center"> 
+<h3>Studying in this moment:</h3>
+</div>
+ 
+<div align="center" style="display: inline_block"><br/>
    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-<hr>
-  <div align="center"> 
-   
-  ![](https://komarev.com/ghpvc/?username=MariTerol)
+
+ <hr>
  
+ <div align="center"> 
+  
+  ![](https://komarev.com/ghpvc/?username=MariTerol)
+  
  </div>
-<br>
+
+ <br>
+
 <div> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
